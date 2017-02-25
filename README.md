@@ -1,1 +1,15 @@
 # linux-server-configuration
+- ip address
+	 - `52.41.206.23`
+- ssh port 
+	 - 2200
+- application url
+	 - `http://52.41.206.23/`
+- software installed and configured
+	 - apache2
+	 - sqlalchemy
+	 - httplib
+	 - flask
+	 - postgres 
+- ssh-key path
+	 - /home/grader/ssh/authorized_keys
